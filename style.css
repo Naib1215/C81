@@ -1,0 +1,36 @@
+
+h1
+{
+	color: darkblue; 
+	font-size: 50px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-color: yellow;
+	width:500px;
+	padding-top: 20px;
+	padding-bottom:20px;
+}
+.body_background{
+	background-image: url("background.jpg");
+	background-position: center;
+	background-size: cover;
+}
+#mycanvas{
+	background-color: whitesmoke;
+	border-width: 20px;
+	border-style: double;
+}
+#textholder{
+	width: 300px;
+	text-align: center;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+#clear{
+	width: 90px;
+	font-size: medium;
+	font-weight: bold;
+	background-color: yellow;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 1px;
+}
